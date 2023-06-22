@@ -1,0 +1,10 @@
+{
+  "name": "@lucactus/prettier",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.json",
+  "keywords": [],
+  "author": "Lucas De Curtis",
+  "license": "ISC"
+}
